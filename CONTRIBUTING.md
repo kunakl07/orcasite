@@ -10,7 +10,7 @@ We recommend following these steps if you'd like to contribute to the repo.
 1. Fork the Orcasite repo
 2. Develop on a [feature branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 3. Submit a PR (don't review your own)!
-  	- To maintain a consistent style, we recommend running [Prettier](https://github.com/prettier/prettier) on js, and `mix format` before submission
+      - To maintain a consistent style, we recommend running [Prettier](https://github.com/prettier/prettier) on js, and `mix format` before submission
 4. Once a PR is merged, we can throw it up onto the dev server to see how things look!
 
 ### Questions?
@@ -33,7 +33,7 @@ If you're new to Elixir (or JS and React), that's no problem! Here are some reso
 ##### Some cool videos
 
 - [Micropatterns in Elixir](https://www.youtube.com/watch?v=9uvp4h7gXHg) - Great video on how to think about recursion to solve problems
-- [An intro to OTP](https://www.youtube.com/watch?v=CJT8wPnmjTM) - Overview of OTP supvervision trees
+- [An intro to OTP](https://www.youtube.com/watch?v=CJT8wPnmjTM) - Overview of OTP supervision trees
 - [Fred Hebert - The Hitchhiker's Guide to the Unexpected](https://www.youtube.com/watch?v=W0BR_tWZChQ) - There's a good section on a real-world supervision trees
 - [ElixirConf - GraphQL with Absinthe & Dataloader](https://www.youtube.com/watch?v=m26i1L2D7Yk)
 - [ElixirDaze - Phoenix Contexts](https://www.youtube.com/watch?v=l3VgbSgo71E) - Great video on how to think about Phoenix Contexts
@@ -58,7 +58,7 @@ Some of these are convenient for reference
 ### Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
+contributors and maintainers pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
 nationality, personal appearance, race, religion, or sexual identity and
@@ -109,7 +109,7 @@ further defined and clarified by project maintainers.
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing or otherwise, unacceptable behavior may be
 reported by contacting the project team at admin@orcasound.net. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
